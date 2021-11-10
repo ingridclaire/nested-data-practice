@@ -1,0 +1,617 @@
+[
+  {
+    "id": "cb3c220b-6603-4a92-a936-e685cfd4b798",
+    "name": "Handcrafted Metal Bacon",
+    "price": {
+      "normalPrice": "997.00",
+      "salePrice": 747.75
+    },
+    "tags": [
+      {
+        "tag_id": "6758b974-96ef-4ea8-a484-00b7412da7e4",
+        "tag_name": "Generic"
+      },
+      {
+        "tag_id": "fbea849c-5311-4f03-a2af-625a7285acad",
+        "tag_name": "Incredible"
+      },
+      {
+        "tag_id": "7624bbf9-583f-462e-a8f9-32d3cb2dde89",
+        "tag_name": "Gorgeous"
+      },
+      {
+        "tag_id": "38ad9d08-115a-408b-9910-50054c6251d1",
+        "tag_name": "Handcrafted"
+      },
+      {
+        "tag_id": "a8eac53b-92c1-44f4-aae4-f3f8da492d17",
+        "tag_name": "Small"
+      },
+      {
+        "tag_id": "c94ce3ad-b3dc-4145-a1fb-d254ec74c122",
+        "tag_name": "Small"
+      },
+      {
+        "tag_id": "924b9558-849d-4cf5-9641-bff16b6649e8",
+        "tag_name": "Unbranded"
+      }
+    ],
+    "description": {
+      "short": "Andy shoes...",
+      "full": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+    },
+    "image": {
+      "url": "http://placeimg.com/640/480",
+      "avatar": "https://cdn.fakercloud.com/avatars/evanshajed_128.jpg"
+    }
+  },
+  {
+    "id": "70c3413b-bf6a-4c6d-b4c5-d6fcd47d9105",
+    "name": "Refined Fresh Ball",
+    "price": {
+      "normalPrice": "861.00",
+      "salePrice": 645.75
+    },
+    "tags": [
+      {
+        "tag_id": "a3243ab8-b82c-42ea-a3dd-ac1a036915ea",
+        "tag_name": "Fantastic"
+      },
+      {
+        "tag_id": "037f20c2-d0db-4a94-be53-dad450a44205",
+        "tag_name": "Handcrafted"
+      },
+      {
+        "tag_id": "646e04f3-2092-421f-a943-94252d95c356",
+        "tag_name": "Unbranded"
+      },
+      {
+        "tag_id": "f80182b2-95c6-4b61-b30c-0223759cde98",
+        "tag_name": "Sleek"
+      },
+      {
+        "tag_id": "9a4ee2a0-405d-4b73-97ac-5cc76ffa3641",
+        "tag_name": "Awesome"
+      }
+    ],
+    "description": {
+      "short": "The slim &...",
+      "full": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+    },
+    "image": {
+      "url": "http://placeimg.com/640/480",
+      "avatar": "https://cdn.fakercloud.com/avatars/noufalibrahim_128.jpg"
+    }
+  },
+  {
+    "id": "d32584d2-bfaa-4c1a-a235-02300955177d",
+    "name": "Practical Steel Bacon",
+    "price": {
+      "normalPrice": "994.00",
+      "salePrice": 745.5
+    },
+    "tags": [
+      {
+        "tag_id": "9e13072e-d206-4208-b534-07304af77633",
+        "tag_name": "Licensed"
+      },
+      {
+        "tag_id": "f23a00bd-8346-4561-9ec5-643c356d63e8",
+        "tag_name": "Incredible"
+      },
+      {
+        "tag_id": "0fd39787-5425-4213-b688-d299644a6c69",
+        "tag_name": "Fantastic"
+      },
+      {
+        "tag_id": "dd0a16fb-4d1f-4e15-a2da-78ba0e61bce6",
+        "tag_name": "Awesome"
+      }
+    ],
+    "description": {
+      "short": "New range ...",
+      "full": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+    },
+    "image": {
+      "url": "http://placeimg.com/640/480",
+      "avatar": "https://cdn.fakercloud.com/avatars/michaelcolenso_128.jpg"
+    }
+  },
+  {
+    "id": "9ad357cc-0151-446c-8b07-f005f183e906",
+    "name": "Incredible Concrete Gloves",
+    "price": {
+      "normalPrice": "335.00",
+      "salePrice": 251.25
+    },
+    "tags": [
+      {
+        "tag_id": "fe0347a8-ab11-4a25-bd27-1f16dc68d683",
+        "tag_name": "Unbranded"
+      },
+      {
+        "tag_id": "3fa91e96-4264-4933-9c37-555bd7fd9f27",
+        "tag_name": "Intelligent"
+      },
+      {
+        "tag_id": "fbae8b09-1866-4488-9e0e-62b0194c7da9",
+        "tag_name": "Fantastic"
+      },
+      {
+        "tag_id": "3ac35819-d6d5-480d-a917-0718e3610c52",
+        "tag_name": "Rustic"
+      },
+      {
+        "tag_id": "131d6b6f-8f79-450d-a1bd-f8b056091c77",
+        "tag_name": "Intelligent"
+      },
+      {
+        "tag_id": "ed1a7cd6-a154-4d46-9e08-a6b05b019120",
+        "tag_name": "Gorgeous"
+      },
+      {
+        "tag_id": "2c17a487-fc9b-4d8f-9093-2d9907ddd185",
+        "tag_name": "Tasty"
+      },
+      {
+        "tag_id": "a306cce1-439d-4585-9814-5fb727a7a236",
+        "tag_name": "Licensed"
+      },
+      {
+        "tag_id": "730ff9f6-47cf-40e0-bd87-ffaed166c7a3",
+        "tag_name": "Sleek"
+      },
+      {
+        "tag_id": "8458cb6f-3b1b-4ec8-8ed6-f88a96be3189",
+        "tag_name": "Sleek"
+      },
+      {
+        "tag_id": "ce882b0c-5e12-4b55-b02e-ca74b02c5e96",
+        "tag_name": "Rustic"
+      },
+      {
+        "tag_id": "3d42394e-74ef-4aca-99dc-bc3bf9a85464",
+        "tag_name": "Awesome"
+      },
+      {
+        "tag_id": "fe15d83b-65b2-4c3b-b72d-20d7136513f0",
+        "tag_name": "Sleek"
+      }
+    ],
+    "description": {
+      "short": "Andy shoes...",
+      "full": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+    },
+    "image": {
+      "url": "http://placeimg.com/640/480",
+      "avatar": "https://cdn.fakercloud.com/avatars/teddyzetterlund_128.jpg"
+    }
+  },
+  {
+    "id": "bf0bd5e6-42e5-43f0-b7c9-7672850db840",
+    "name": "Rustic Granite Pizza",
+    "price": {
+      "normalPrice": "501.00",
+      "salePrice": 375.75
+    },
+    "tags": [
+      {
+        "tag_id": "6e6c88c6-6425-49af-9dfd-7e4368c2c4c3",
+        "tag_name": "Refined"
+      },
+      {
+        "tag_id": "cf8427ad-5250-4696-a126-2fc28861ae62",
+        "tag_name": "Practical"
+      },
+      {
+        "tag_id": "709d61e8-7617-48b1-8453-625b5eb4313e",
+        "tag_name": "Refined"
+      },
+      {
+        "tag_id": "a2e05a08-87d3-4b7c-8bbd-8cdd81784dd5",
+        "tag_name": "Gorgeous"
+      },
+      {
+        "tag_id": "489e63a0-4784-49a5-ad7d-2156e000a741",
+        "tag_name": "Practical"
+      },
+      {
+        "tag_id": "3916029d-2b17-43b9-9f6a-113c1fa13457",
+        "tag_name": "Incredible"
+      }
+    ],
+    "description": {
+      "short": "The beauti...",
+      "full": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+    },
+    "image": {
+      "url": "http://placeimg.com/640/480",
+      "avatar": "https://cdn.fakercloud.com/avatars/guischmitt_128.jpg"
+    }
+  },
+  {
+    "id": "971ec657-212e-4191-850f-bc5ab8d50ed1",
+    "name": "Tasty Fresh Shoes",
+    "price": {
+      "normalPrice": "685.00",
+      "salePrice": 513.75
+    },
+    "tags": [
+      {
+        "tag_id": "b5c9d05d-0a77-407f-8cdb-d565716258f4",
+        "tag_name": "Handmade"
+      }
+    ],
+    "description": {
+      "short": "The Nagasa...",
+      "full": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+    },
+    "image": {
+      "url": "http://placeimg.com/640/480",
+      "avatar": "https://cdn.fakercloud.com/avatars/maz_128.jpg"
+    }
+  },
+  {
+    "id": "56f7415f-905c-4617-a415-e4ff15280f90",
+    "name": "Handcrafted Granite Chips",
+    "price": {
+      "normalPrice": "634.00",
+      "salePrice": 475.5
+    },
+    "tags": [
+      {
+        "tag_id": "ca0fbbaf-ee01-4377-9d29-db5e59fe82c5",
+        "tag_name": "Handcrafted"
+      }
+    ],
+    "description": {
+      "short": "Boston's m...",
+      "full": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+    },
+    "image": {
+      "url": "http://placeimg.com/640/480",
+      "avatar": "https://cdn.fakercloud.com/avatars/mugukamil_128.jpg"
+    }
+  },
+  {
+    "id": "50933d8a-22c1-4e5a-b7f2-255d2785f0bb",
+    "name": "Tasty Steel Soap",
+    "price": {
+      "normalPrice": "10.00",
+      "salePrice": 7.5
+    },
+    "tags": [
+      {
+        "tag_id": "650603bd-3368-4c34-a638-c91a05517f78",
+        "tag_name": "Licensed"
+      },
+      {
+        "tag_id": "7446e782-c8c8-4203-ae37-725adcc49d40",
+        "tag_name": "Generic"
+      },
+      {
+        "tag_id": "50e960af-ce46-4625-ae2f-6834f492fdf9",
+        "tag_name": "Unbranded"
+      },
+      {
+        "tag_id": "f36f6fff-b58c-4f39-9e93-006514c177e9",
+        "tag_name": "Refined"
+      },
+      {
+        "tag_id": "c667b751-a429-461f-8051-b06a1aade780",
+        "tag_name": "Licensed"
+      },
+      {
+        "tag_id": "987bc72e-c9ec-4db9-974f-4f9e94531192",
+        "tag_name": "Handcrafted"
+      },
+      {
+        "tag_id": "6ac302ac-c3a5-4874-9158-53d2350537bb",
+        "tag_name": "Gorgeous"
+      }
+    ],
+    "description": {
+      "short": "New range ...",
+      "full": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+    },
+    "image": {
+      "url": "http://placeimg.com/640/480",
+      "avatar": "https://cdn.fakercloud.com/avatars/vitor376_128.jpg"
+    }
+  },
+  {
+    "id": "08c33a3a-2549-4ec2-a80a-0f13febd10be",
+    "name": "Generic Rubber Table",
+    "price": {
+      "normalPrice": "628.00",
+      "salePrice": 471
+    },
+    "tags": [
+      {
+        "tag_id": "b2bc114f-e936-49ed-83e2-48018a99e0f5",
+        "tag_name": "Generic"
+      },
+      {
+        "tag_id": "5ee643fd-0a3c-4424-b9ff-19077caa1783",
+        "tag_name": "Generic"
+      },
+      {
+        "tag_id": "5fd93ec8-6e1d-4d20-b772-8e8cb630a419",
+        "tag_name": "Handmade"
+      },
+      {
+        "tag_id": "86765742-a12c-431a-acab-09e5b0fb3272",
+        "tag_name": "Ergonomic"
+      },
+      {
+        "tag_id": "42929361-5f97-4b9d-b5c3-71da586ef578",
+        "tag_name": "Sleek"
+      },
+      {
+        "tag_id": "9a367436-3edb-4af4-81a3-ed1e8481f97b",
+        "tag_name": "Generic"
+      },
+      {
+        "tag_id": "818aa594-8515-4722-aa1d-60bd7d6175e7",
+        "tag_name": "Incredible"
+      },
+      {
+        "tag_id": "b6b728e4-9773-417b-8dbd-9d41118313bb",
+        "tag_name": "Licensed"
+      },
+      {
+        "tag_id": "88cd8ba6-b1e6-40df-8c5c-677f5c409c89",
+        "tag_name": "Gorgeous"
+      },
+      {
+        "tag_id": "ff078aa2-be56-4245-9fad-6205be7903ea",
+        "tag_name": "Tasty"
+      },
+      {
+        "tag_id": "d4809a40-f398-4cb8-abee-bae9b4f38a87",
+        "tag_name": "Gorgeous"
+      },
+      {
+        "tag_id": "ff7c88a3-6b92-4d43-84bf-c42c64f662f0",
+        "tag_name": "Unbranded"
+      }
+    ],
+    "description": {
+      "short": "Andy shoes...",
+      "full": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+    },
+    "image": {
+      "url": "http://placeimg.com/640/480",
+      "avatar": "https://cdn.fakercloud.com/avatars/grrr_nl_128.jpg"
+    }
+  },
+  {
+    "id": "595f71ac-0cd0-4519-9655-8435e331fb00",
+    "name": "Handmade Metal Shoes",
+    "price": {
+      "normalPrice": "464.00",
+      "salePrice": 348
+    },
+    "tags": [],
+    "description": {
+      "short": "The Nagasa...",
+      "full": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+    },
+    "image": {
+      "url": "http://placeimg.com/640/480",
+      "avatar": "https://cdn.fakercloud.com/avatars/ademilter_128.jpg"
+    }
+  },
+  {
+    "id": "c2c20c57-4371-4d07-9c39-26121393c7ee",
+    "name": "Generic Granite Mouse",
+    "price": {
+      "normalPrice": "340.00",
+      "salePrice": 255
+    },
+    "tags": [
+      {
+        "tag_id": "dd057fd5-dfad-42f7-9b9d-8da1c6edc97a",
+        "tag_name": "Small"
+      },
+      {
+        "tag_id": "6ae703ab-04f2-4568-ba7a-316997527fb6",
+        "tag_name": "Awesome"
+      },
+      {
+        "tag_id": "244143d6-c880-45e7-b26f-642c9f4f8762",
+        "tag_name": "Generic"
+      },
+      {
+        "tag_id": "bca7cae3-d5e3-43f6-b94e-95fc9dd53bc5",
+        "tag_name": "Unbranded"
+      },
+      {
+        "tag_id": "4d5df333-6ec8-4d8e-8457-086b1dad425e",
+        "tag_name": "Handmade"
+      },
+      {
+        "tag_id": "03a0b66f-7839-41f8-a194-eda8e83c641a",
+        "tag_name": "Gorgeous"
+      },
+      {
+        "tag_id": "a728ee7c-e0a5-4b3c-aa99-7353064f4672",
+        "tag_name": "Small"
+      },
+      {
+        "tag_id": "979770e9-6fdf-4180-9e28-a6254eba964b",
+        "tag_name": "Awesome"
+      },
+      {
+        "tag_id": "3b464093-f0ca-4471-85f0-83c750bc664e",
+        "tag_name": "Rustic"
+      },
+      {
+        "tag_id": "61d2baa9-8043-46e0-8928-2cc8ea58d5b0",
+        "tag_name": "Rustic"
+      },
+      {
+        "tag_id": "da2e6c5d-8abe-4823-abb6-0e0cb229e99c",
+        "tag_name": "Generic"
+      },
+      {
+        "tag_id": "6f964c52-6953-4a41-a4fa-0e608323201e",
+        "tag_name": "Handcrafted"
+      }
+    ],
+    "description": {
+      "short": "The Apollo...",
+      "full": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+    },
+    "image": {
+      "url": "http://placeimg.com/640/480",
+      "avatar": "https://cdn.fakercloud.com/avatars/fjaguero_128.jpg"
+    }
+  },
+  {
+    "id": "1163bd3a-8037-4920-8368-fce8b81a999a",
+    "name": "Ergonomic Rubber Keyboard",
+    "price": {
+      "normalPrice": "443.00",
+      "salePrice": 332.25
+    },
+    "tags": [
+      {
+        "tag_id": "e1afff04-a7ea-4615-9205-6cd71366eacc",
+        "tag_name": "Gorgeous"
+      },
+      {
+        "tag_id": "a76c280e-4006-4098-abb6-c5369d45733a",
+        "tag_name": "Intelligent"
+      },
+      {
+        "tag_id": "a9d3076f-571e-4a96-83d8-32b5d3bf2ce0",
+        "tag_name": "Rustic"
+      },
+      {
+        "tag_id": "e2dfc9af-c332-44fc-99a1-fbe19919b20b",
+        "tag_name": "Tasty"
+      },
+      {
+        "tag_id": "fb9d131e-6a4b-459a-8714-4b42c041065e",
+        "tag_name": "Rustic"
+      },
+      {
+        "tag_id": "f6ae8a21-d28e-4c19-b1b5-281c2e9ffcb1",
+        "tag_name": "Unbranded"
+      },
+      {
+        "tag_id": "e6e5a248-5048-4697-a612-b94ab0098cc8",
+        "tag_name": "Fantastic"
+      },
+      {
+        "tag_id": "b7ee1b24-072d-40c1-b8dc-ee1196b3d8fc",
+        "tag_name": "Intelligent"
+      },
+      {
+        "tag_id": "de62c16a-a64d-43b2-8c75-4fc36c84aa63",
+        "tag_name": "Tasty"
+      },
+      {
+        "tag_id": "9fd1387e-7578-44f8-94b6-bea4d284c02d",
+        "tag_name": "Tasty"
+      },
+      {
+        "tag_id": "be355e96-cf64-45a4-b41b-3879efded9ce",
+        "tag_name": "Incredible"
+      },
+      {
+        "tag_id": "76424e7a-3774-4d38-b481-3b410c70ae96",
+        "tag_name": "Refined"
+      },
+      {
+        "tag_id": "0e711b48-a702-46b9-8f13-83d57701b2b8",
+        "tag_name": "Licensed"
+      },
+      {
+        "tag_id": "18a9b476-0647-47e4-a540-e8aae3a560d9",
+        "tag_name": "Ergonomic"
+      },
+      {
+        "tag_id": "d255d0fb-490f-422c-bc1c-b6d4ae961b11",
+        "tag_name": "Sleek"
+      },
+      {
+        "tag_id": "d8ef79cc-15fe-4a45-a828-e1031199b128",
+        "tag_name": "Gorgeous"
+      },
+      {
+        "tag_id": "4076049a-9a4d-4b20-a2d0-2e9ff0c64f14",
+        "tag_name": "Fantastic"
+      },
+      {
+        "tag_id": "dc565655-b50b-46d2-9f9d-0ea5d17308b6",
+        "tag_name": "Handcrafted"
+      },
+      {
+        "tag_id": "2aa45bfc-b080-4cc9-b8c2-01378739d491",
+        "tag_name": "Refined"
+      },
+      {
+        "tag_id": "c04ed209-3ae3-4e37-af0e-9a61874ab664",
+        "tag_name": "Rustic"
+      },
+      {
+        "tag_id": "b4b73949-b75c-4007-bb22-da0187b26dcc",
+        "tag_name": "Generic"
+      },
+      {
+        "tag_id": "af7164f0-de07-4cce-a681-86b892c43942",
+        "tag_name": "Generic"
+      },
+      {
+        "tag_id": "f98d11b3-ab22-418c-93bc-80d80c814668",
+        "tag_name": "Small"
+      },
+      {
+        "tag_id": "0374a3b2-c2e9-46e5-8907-8ad602f343bc",
+        "tag_name": "Ergonomic"
+      },
+      {
+        "tag_id": "a7d8ba59-ac0c-420d-be05-5744ffe1692e",
+        "tag_name": "Practical"
+      },
+      {
+        "tag_id": "eb466114-112f-4084-8f79-026f4fe2e7ac",
+        "tag_name": "Tasty"
+      },
+      {
+        "tag_id": "0a56cac5-fec9-451e-b6f4-18cfda84fe08",
+        "tag_name": "Refined"
+      },
+      {
+        "tag_id": "b9c63afb-071a-4445-b2df-d507b4a2c511",
+        "tag_name": "Practical"
+      },
+      {
+        "tag_id": "3b2498a2-1a25-4c5d-89a0-7c5833f2c8c5",
+        "tag_name": "Unbranded"
+      },
+      {
+        "tag_id": "6a3a6e33-4eec-4b75-a41a-ce9a9c1ad193",
+        "tag_name": "Handmade"
+      },
+      {
+        "tag_id": "e7254e2e-0980-435d-94a9-e47bfa92dcb1",
+        "tag_name": "Intelligent"
+      },
+      {
+        "tag_id": "9aa799e4-e187-45fa-8cde-27ad2b01988e",
+        "tag_name": "Unbranded"
+      }
+    ],
+    "description": {
+      "short": "New ABC 13...",
+      "full": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+    },
+    "image": {
+      "url": "http://placeimg.com/640/480",
+      "avatar": "https://cdn.fakercloud.com/avatars/belyaev_rs_128.jpg"
+    }
+  }
+]

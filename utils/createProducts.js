@@ -12,7 +12,7 @@ const createProducts = () => {
       //each tag will be an object with id and name
       tags.push({
         tag_id: uuidv4(),
-        tag_name: faker.commerce.productAdjective
+        tag_name: faker.commerce.productAdjective()
       });
     }
     //initialize the price and description
@@ -42,6 +42,7 @@ const createProducts = () => {
 
 }
 
-console.log(createProducts())
+const results = createProducts();
 
-module.exports = createProducts;
+
+module.exports = results;
